@@ -23,7 +23,7 @@ def run_modelp(data):
 
 
 #----------------------------------------------------------------------------
-def modelt(data):  # spatial attention depends on non-decision time 
+def modelt(data):  # spatial attention depended on non-decision time 
     model = hddm.HDDM(data, depends_on = {'v':['coherency', 'stimulus'], 't':'spatial'}, bias = True, include={'st'})
     #find a good starting point which helps with the convergence.
     model.find_starting_values()
@@ -44,7 +44,7 @@ def run_modelt(data):
 
 
 #----------------------------------------------------------------------------
-def modelz(data):  # spatial attention depends on starting point 
+def modelz(data):  # spatial attention depended on starting point 
     model = hddm.HDDM(data, depends_on = {'v':['coherency', 'stimulus'], 'z':'spatial'}, bias = True, include={'st'})
     #find a good starting point which helps with the convergence.
     model.find_starting_values()
@@ -66,7 +66,7 @@ def run_modelz(data):
 
 
 #----------------------------------------------------------------------------
-def modela(data):  # spatial attention depends on boundary decision
+def modela(data):  # spatial attention depended on boundary decision
     model = hddm.HDDM(data, depends_on = {'v':['coherency', 'stimulus'], 'a':'spatial'}, bias = True, include={'st'})
     #find a good starting point which helps with the convergence.
     model.find_starting_values()
@@ -87,7 +87,7 @@ def run_modela(data):
 
 
 #----------------------------------------------------------------------------
-def modelv(data):  # spatial attention depends on drift-rate
+def modelv(data):  # spatial attention depended on drift-rate
     model = hddm.HDDM(data, depends_on = {'v':['coherency', 'stimulus', 'spatial']}, bias = True, include={'st'})
     #find a good starting point which helps with the convergence.
     model.find_starting_values()
