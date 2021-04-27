@@ -1,0 +1,23 @@
+{
+	"TaskName": "pdm",
+	"SamplingFrequency": "5000",
+	"Manufacturer": "",
+	"ManufacturersModelName": "",
+	"TaskDescription": "Face vs. car perceptual decision task",
+	"InstitutionName": "University of Birmingham",
+	"InstitutionAddress": "Birmingham B15 2TT, United Kingdom",
+	"EEGChannelCount": "62",
+	"EOGChannelCount": "1",
+	"ECGChannelCount": "1",
+	"PowerLineFrequency": "50",
+	"EEGPlacementScheme": "10-20",
+	"EEGReference": "",
+	"SoftwareFilters": "none",
+	"RecordingDuration": "",
+	"RecordingType": "",
+	"DeviceSoftwareVersion": "",
+	"ContinuousHeadLocalization": "",
+	"SubjectArtefactDescription": "",
+	"DigitizedLandmarks": "",
+	"DigitizedHeadPoints": ""
+}
