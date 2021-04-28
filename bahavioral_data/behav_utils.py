@@ -14,7 +14,7 @@ def con_subj(): # this function create IQR filtered file of each subject
     try:
         #elimination subject number 7 and 11 relating to eeg detect data
         #subjecs of 1,3,4,5,6,8,9,10,12,13,14,15,16,17 are remainded
-        ds_root = 'PDM_data\\\raw'
+        ds_root = 'PDM_data'
         anlz_dir = 'PDM_data\\filtered_subj'
         out_MR= 'sourcedata-eeg_outside-MRT\\beh';
         in_MR = 'sourcedata-eeg_inside-MRT\\beh';
