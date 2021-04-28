@@ -8,7 +8,7 @@ Current repository was able to assess the relationship between EEG components an
 Consider following stepts to use the repository.
 1. use **bahavioral_data** folder in order to filter out rt data  based on the IQR Interquartile range, concatentae subject to a csv file and plot related figures.
 2. use **models** folder in order to apply hddm method to compare the five models and plot related figures based on our hypothesis.
-3. use **https://github.com/AGhaderi/MNE-Preprocessing** repository to preprrocess eeg data
+3. use **https://github.com/AGhaderi/MNE-Preprocessing** repository to preprocess eeg data
 4.  use **eeg** folder to extract contralateral, ipsilateral and neutral amplitude and power, plot related figures and make multiple linear regressions
 '
 ## Data
