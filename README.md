@@ -1,5 +1,5 @@
 # hDDM_attention
-The current repository is for a project named "How spatial attention affects the decision process: looking through the lens of Bayesian hierarchical diffusion model & EEG analysis" at the Shahid Beheshti University, in collaboration with Dr. Jamal Amani Rad, Prof. Reza Ebrahimpour, and Prof. Kourosh Parand.
+The current repository is for a project named "How spatial attention affects the decision process: looking through the lens of Bayesian hierarchical diffusion model & EEG analysis" at the Shahid Beheshti University, by Mr. Amin-Ghaderi-Kangavari, Dr. Jamal Amani Rad, Prof. Reza Ebrahimpour, and Prof. Kourosh Parand.
 
 ## Citation  
 
