@@ -1,7 +1,10 @@
 # hDDM_attention
-The current repository is for a project named "How spatial attention affects the decision process: looking through the lens of Bayesian hierarchical diffusion model & EEG analysis" at the Shahid Beheshti University, by Mr. Amin Ghaderi-Kangavari, Dr. Jamal Amani Rad, Prof. Reza Ebrahimpour, and Prof. Kourosh Parand.
+The current repository is for a project named "How spatial attention affects the decision process: looking through the lens of Bayesian hierarchical diffusion model & EEG analysis" at the Shahid Beheshti University (National University of Iran).
+
+Authors: Amin Ghaderi-Kangavari, Kourosh Parand, Reza Ebrahimpour,  Michael D. Nunez, and Jamal Amani Rad.
 
 ## Citation  
+Ghaderi-Kangavari, A., Parand, K., Ebrahimpour, R., Nunez, M. D., & Amani Rad, J. (2023). How spatial attention affects the decision process: looking through the lens of Bayesian hierarchical diffusion model & EEG analysis. Journal of Cognitive Psychology, 35(4), 456–479. https://doi.org/10.1080/20445911.2023.2187714
 
 ## Description
 In this project, based on one of the well-known sequential sampling models (SSMs), named the diffusion decision model, we explore the underlying latent process of spatial prioritization in perceptual decision processes, so that for estimating the model parameters (i.e. the drift rate, the boundary separation, and the non-decision time), a Bayesian hierarchical approach is considered, which allows inferences to be done simultaneously in the group and individual level. Moreover, well-established neural components of spatial attention which contributed to the latent process and behavioral performance in a visual face-car perceptual decision are detected based on the event-related potential (ERP) analysis. 
